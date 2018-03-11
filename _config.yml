@@ -1,0 +1,36 @@
+# Site settings
+title: Jxi2 Inc.
+email: rmiller@jxi2.com
+url: http://jxi2.com
+description: "Jxi2 Inc designs and manufacture the SYNCCLOCK line of boards."
+keywords: "syncclock"
+meta_author: Miller Randy
+
+exclude: [ "*.yml", "Gemfile*", "LICENSE", "README.md", "LICENSE"]
+# Google webmaster tools
+google_verify:
+sass:
+  sass_dir: _sass
+  style: compressed
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+footer:
+  copyright: Jxi2, Inc.
+  location: Location
+  social: Around the Web
+  contact: Contact Info
+  credits: Credits
+social:
+address:
+  - line: 10432&nbsp;Brian&nbsp;Mooney&nbsp;Ave
+  - line: El Paso, TX 79935
+contact:
+  - line: "Phone: (915) 856-0241"
+  - line: "Email: rmiller@jxi2.com"
+credits: 'See our <a href="https://github.com/jxi2/jxi2" target="_blank">GitHub page</a> for this website.'
+markdown: kramdown
+permalink: pretty
