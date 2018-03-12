@@ -1,5 +1,5 @@
 # Site settings
-title: Jxi2 Inc.
+title: Jxi2
 email: rmiller@jxi2.com
 url: http://jxi2.com
 description: "Jxi2 Inc designs and manufacture the SYNCCLOCK line of boards."
@@ -19,7 +19,7 @@ color:
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 footer:
-  copyright: Jxi2, Inc.
+  copyright: Jxi2 Inc.
   location: Location
   social: Around the Web
   contact: Contact Info
