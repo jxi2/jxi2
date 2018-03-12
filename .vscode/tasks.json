@@ -1,0 +1,29 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558 for the documentation
+    // about the tasks.json format.
+    // NOTE: Must be stopped by interacting with the task and not through the
+    // Tasks menu, ie use Ctrl+C in the terminal.
+    "version": "2.0.0",
+    "type": "shell",
+    "isBackground": true,
+    "group": "build",
+    "tasks": [
+        {
+            "label": "serve",
+            "command": "bash --login -c 'jekyll serve'",
+            "problemMatcher": []
+        },
+        {
+            "label": "future",
+            "command": "bash --login -c 'jekyll serve --future'"
+        },
+        {
+            "label": "drafts",
+            "command": "bash --login -c 'jekyll serve --drafts'"
+        },
+        {
+            "label": "futuredrafts",
+            "command": "bash --login -c 'jekyll serve --future --drafts'"
+        }
+    ]
+}
