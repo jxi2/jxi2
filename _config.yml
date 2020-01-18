@@ -1,10 +1,10 @@
 # Site settings
 title: Jxi2
-email: jkates@elp.rr.com
+email: jkates@jxi2.com
 url: http://jxi2.com
 description: "Jxi2 Inc designs and manufacture the SYNCCLOCK line of boards."
 keywords: "syncclock"
-meta_author: Miller Randy
+meta_author: Kates John
 
 exclude: [ "*.yml", "Gemfile*", "LICENSE", "README.md", "LICENSE"]
 # Google webmaster tools
@@ -30,7 +30,7 @@ address:
   - line: El Paso, TX 79935
 contact:
   - line: "Phone: (915) 856-0241"
-  - line: "Email: jkates@elp.rr.com"
+  - line: "Email: jkates@jxi2.com"
 credits: 'See our <a href="https://github.com/jxi2/jxi2" target="_blank">GitHub page</a> for this website.'
 markdown: kramdown
 permalink: pretty
