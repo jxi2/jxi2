@@ -34,4 +34,4 @@ contact:
 credits: 'See our <a href="https://github.com/jxi2/jxi2" target="_blank">GitHub page</a> for this website.'
 markdown: kramdown
 permalink: pretty
-driver_version: "8201327 and 2.4.2"
+driver_version: "8201327 for PCIe-SYNCCLOCK devices and 2.4.2 for PCIeLP and mPCIe SYNCCLOCK devices"
